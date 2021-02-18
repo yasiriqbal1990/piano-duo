@@ -1,0 +1,58 @@
+html, body{
+    outline: none;
+}
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4em;
+}
+a:hover{
+    color: $black;
+}
+a:focus{
+    outline: none;
+    outline-offset: inherit;
+}
+button:focus{
+    border: none;
+    box-shadow: none;
+    outline: none;
+    border-color: transparent;
+}
+p {
+    line-height: 1.4em;
+    margin-bottom: 0;
+}
+ul li {
+    line-height: 1.4em;
+}
+
+ul {
+    padding: 0;
+    margin-left: 0;
+}
+.form-control:focus{
+    box-shadow: none;
+    outline: none;
+    outline-offset: inherit;
+    border: none;
+}
+.center {
+    text-align: center;
+}
+
+.align_right {
+    text-align: right;
+}
+
+.btn_center {
+    display: block;
+    margin: 0 auto;
+}
+.child-pernt {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+.child {
+    display: table-cell;
+    vertical-align: middle;
+}

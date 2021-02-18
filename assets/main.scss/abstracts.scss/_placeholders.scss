@@ -1,0 +1,23 @@
+
+
+@mixin placeholders($color_grey) {
+    ::-webkit-input-placeholder {
+        color: $color_grey;
+        font-size: $font6;
+    }
+
+    :-moz-placeholder { /* Firefox 18- */
+        color: $color_grey;
+        font-size: $font6;
+    }
+
+    ::-moz-placeholder {  /* Firefox 19+ */
+        color: $color_grey;
+        font-size: $font6;
+    }
+
+    :-ms-input-placeholder {
+        color: $color_grey;
+        font-size: $font6;
+    }
+}
