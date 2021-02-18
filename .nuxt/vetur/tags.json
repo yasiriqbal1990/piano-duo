@@ -1,0 +1,80 @@
+{
+  "AufnahmenSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/aufnahmenPage/AufnahmenSection2.vue"
+  },
+  "LazyAufnahmenSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/aufnahmenPage/AufnahmenSection2.vue"
+  },
+  "AufReisenSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/AufReisenPage/AufReisenSection2.vue"
+  },
+  "LazyAufReisenSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/AufReisenPage/AufReisenSection2.vue"
+  },
+  "AufReisenSingleSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/AufReisenSinglePage/AufReisenSingleSection2.vue"
+  },
+  "LazyAufReisenSingleSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/AufReisenSinglePage/AufReisenSingleSection2.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/footer/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/footer/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/header/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/header/Header.vue"
+  },
+  "Section2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/homePage/Section2.vue"
+  },
+  "LazySection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/homePage/Section2.vue"
+  },
+  "HeroDefault": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/heroSections/HeroDefault.vue"
+  },
+  "LazyHeroDefault": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/heroSections/HeroDefault.vue"
+  },
+  "HeroHome": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/heroSections/HeroHome.vue"
+  },
+  "LazyHeroHome": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/heroSections/HeroHome.vue"
+  },
+  "KalenderSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/kalenderPage/KalenderSection2.vue"
+  },
+  "LazyKalenderSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/kalenderPage/KalenderSection2.vue"
+  },
+  "KontaktSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/kontaktPage/KontaktSection2.vue"
+  },
+  "LazyKontaktSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/kontaktPage/KontaktSection2.vue"
+  },
+  "KonzertnameSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/KonzertnamePage/KonzertnameSection2.vue"
+  },
+  "LazyKonzertnameSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/KonzertnamePage/KonzertnameSection2.vue"
+  },
+  "StageStaffSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/stageStaffPages/StageStaffSection2.vue"
+  },
+  "LazyStageStaffSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/stageStaffPages/StageStaffSection2.vue"
+  },
+  "StimmenSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/stimmenPage/StimmenSection2.vue"
+  },
+  "LazyStimmenSection2": {
+    "description": "Auto imported from F:/Piano-project/piano-duo/components/pages/stimmenPage/StimmenSection2.vue"
+  }
+}

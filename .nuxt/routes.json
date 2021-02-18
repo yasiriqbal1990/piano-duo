@@ -1,0 +1,65 @@
+[
+  {
+    "name": "aufnahmen",
+    "path": "/aufnahmen",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\aufnahmen.vue",
+    "chunkName": "pages/aufnahmen",
+    "_name": "_25fb9df6"
+  },
+  {
+    "name": "aufReisen",
+    "path": "/aufReisen",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\aufReisen.vue",
+    "chunkName": "pages/aufReisen",
+    "_name": "_644b8afb"
+  },
+  {
+    "name": "aufreisensingle",
+    "path": "/aufreisensingle",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\aufreisensingle.vue",
+    "chunkName": "pages/aufreisensingle",
+    "_name": "_e6495e3a"
+  },
+  {
+    "name": "kalender",
+    "path": "/kalender",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\kalender.vue",
+    "chunkName": "pages/kalender",
+    "_name": "_93203042"
+  },
+  {
+    "name": "kontakt",
+    "path": "/kontakt",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\kontakt.vue",
+    "chunkName": "pages/kontakt",
+    "_name": "_576540fa"
+  },
+  {
+    "name": "konzertname",
+    "path": "/konzertname",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\konzertname.vue",
+    "chunkName": "pages/konzertname",
+    "_name": "_295a1bb6"
+  },
+  {
+    "name": "stagestaff",
+    "path": "/stagestaff",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\stagestaff.vue",
+    "chunkName": "pages/stagestaff",
+    "_name": "_7cc7aa8f"
+  },
+  {
+    "name": "stimmen",
+    "path": "/stimmen",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\stimmen.vue",
+    "chunkName": "pages/stimmen",
+    "_name": "_16c62758"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Piano-project\\\\piano-duo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5f6a56f5"
+  }
+]
