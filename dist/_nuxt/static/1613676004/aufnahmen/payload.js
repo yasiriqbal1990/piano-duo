@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/aufnahmen", {data:[{}],fetch:[],mutations:void 0});
